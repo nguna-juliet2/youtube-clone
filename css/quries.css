@@ -1,0 +1,21 @@
+
+  @media (max-width: 900px) {
+    .search-section input {
+      width: 25rem;
+    }
+  }
+ @media (max-width: 768px) {
+    .side-navbar {
+      display: none;
+    }
+    .search-section input {
+        width: 18rem;
+      }
+   
+}
+@media (max-width: 600px) {
+    .search-section {
+      display: none;
+       
+    }
+}
